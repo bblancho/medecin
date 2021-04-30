@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "Spasfond", 
+    "prix": 63, 
+    "reason": "Réévaluation du SMR", 
+    "niveau": "Faible"
+  }, 
+  {
+    "title": "Sanogil", 
+    "prix": 96, 
+    "reason": "Réévaluation du Sanogil", 
+    "niveau": "Beaucoup"
+  },
+  {
+    "title": "Toplexine", 
+    "prix": 85, 
+    "reason": "Réévaluation du SMR", 
+    "niveau": "Insuffisant"
+  },
+  {
+    "title": "Efféralgant", 
+    "prix": 36, 
+    "reason": "Réévaluation du SMR", 
+    "niveau": "Faible"
+  }, 
+  {
+    "title": "Dolipranne", 
+    "prix": 45, 
+    "reason": "Réévaluation du SMR", 
+    "niveau": "Insuffisant"
+  } 
+]    

@@ -1,0 +1,293 @@
+[
+  {
+    "authorization_holder": "Laboratoire FERRIER", 
+    "cis_code": "6 000 274 6", 
+    "composition": [
+      {
+        "components": {
+          "actaea racemosa pour préparations homéopathiques": "2CH à 30CH et 4DH à 60DH"
+        }, 
+        "quantity": null, 
+        "type": "Granules"
+      }, 
+      {
+        "components": {
+          "actaea racemosa pour préparations homéopathiques": "2CH à 30CH et 4DH à 60DH"
+        }, 
+        "quantity": null, 
+        "type": "Solution buvable en gouttes"
+      }
+    ], 
+    "generic_groups": null, 
+    "iab": null, 
+    "iab_improvements": null, 
+    "id": 60002746, 
+    "presentations": null, 
+    "title": "ACTAEA RACEMOSA FERRIER, degré de dilution compris entre 2CH et 30CH ou entre 4DH et 60DH"
+  },
+  {
+    "authorization_holder": "ACCORD HEALTHCARE Limited", 
+    "cis_code": "6 000 228 3", 
+    "composition": [
+      {
+        "components": {
+          "anastrozole": "1,00 mg"
+        }, 
+        "quantity": "un comprimé", 
+        "type": "Comprimé"
+      }
+    ], 
+    "generic_groups": [
+      "ANASTROZOLE 1 mg - ARIMIDEX 1 mg, comprimé pelliculé."
+    ], 
+    "iab": null, 
+    "iab_improvements": null, 
+    "id": 60002283, 
+    "presentations": [
+      {
+        "cip_codes": [
+          "494 972-9", 
+          "34009 494 972 9 4"
+        ], 
+        "marketing_start_date": "2011-03-16", 
+        "marketing_stop_date": null, 
+        "price": 6323, 
+        "refund_rate": 100, 
+        "title": "plaquette(s) thermoformée(s) PVC PVDC aluminium de 30 comprimé(s)"
+      }, 
+      {
+        "cip_codes": [
+          "494 977-0", 
+          "34009 494 977 0 6"
+        ], 
+        "marketing_start_date": "2011-09-19", 
+        "marketing_stop_date": null, 
+        "price": 16876, 
+        "refund_rate": 100, 
+        "title": "plaquette(s) thermoformée(s) PVC PVDC aluminium de 90 comprimé(s)"
+      }
+    ], 
+    "title": "ANASTROZOLE ACCORD 1 mg, comprimé pelliculé"
+  },
+  {
+    "authorization_holder": "Laboratoires SAINT GERMAIN - Société Civile de Recherche", 
+    "cis_code": "6 000 250 4", 
+    "composition": [
+      {
+        "components": {
+          "ranitidine base": "150 mg"
+        }, 
+        "quantity": "un comprimé", 
+        "type": "Comprimé"
+      }
+    ], 
+    "generic_groups": [
+      "RANITIDINE (CHLORHYDRATE DE) équivalant à RANITIDINE 150 mg - AZANTAC 150 mg, comprimé effervescent - RANIPLEX 150 mg, comprimé effervescent."
+    ], 
+    "iab": [
+      {
+        "abstract": "Générique de RANIPLEX et/ou AZANTAC, les conclusions s'appliquent.", 
+        "advice": null, 
+        "reason": "Réévaluation du SMR", 
+        "value": "Faible"
+      }, 
+      {
+        "abstract": "Générique de RANIPLEX et/ou AZANTAC, les conclusions s'appliquent.", 
+        "advice": null, 
+        "reason": "Réévaluation du SMR", 
+        "value": "Insuffisant"
+      }
+    ], 
+    "iab_improvements": null, 
+    "id": 60002504, 
+    "presentations": [
+      {
+        "cip_codes": [
+          "332 086-3", 
+          "34009 332 086 3 9"
+        ], 
+        "marketing_start_date": "2003-12-03", 
+        "marketing_stop_date": null, 
+        "price": 1158, 
+        "refund_rate": 15, 
+        "title": "tube(s) polypropylène de 30 comprimé(s)"
+      }
+    ], 
+    "title": "RANITIDINE BIOGARAN 150 mg, comprimé effervescent"
+  },
+  {
+    "authorization_holder": "SANDOZ", 
+    "cis_code": "6 002 147 2", 
+    "composition": [
+      {
+        "components": {
+          "midazolam": "1 mg"
+        }, 
+        "quantity": "1 ml de solution injectable", 
+        "type": "Solution"
+      }
+    ], 
+    "generic_groups": [
+      "MIDAZOLAM (CHLORHYDRATE DE) équivalant à MIDAZOLAM 1 mg/ml - HYPNOVEL 1 mg/ml, solution injectable."
+    ], 
+    "iab": null, 
+    "iab_improvements": null, 
+    "id": 60021472, 
+    "presentations": null, 
+    "title": "MIDAZOLAM SANDOZ 1 mg/ml, solution injectable"
+  }, 
+  {
+    "authorization_holder": "BRISTOL - MYERS SQUIBB", 
+    "cis_code": "6 002 540 3", 
+    "composition": [
+      {
+        "components": {
+          "paracétamol": "1000 mg"
+        }, 
+        "quantity": "un comprimé", 
+        "type": "Comprimé"
+      }
+    ], 
+    "generic_groups": null, 
+    "iab": null, 
+    "iab_improvements": null, 
+    "id": 60025403, 
+    "presentations": null, 
+    "title": "EFFERALGANTAB 1 g, comprimé pelliculé"
+  }, 
+  {
+    "authorization_holder": "TEVA SANTE", 
+    "cis_code": "6 002 695 7", 
+    "composition": [
+      {
+        "components": {
+          "glibenclamide": "5 mg"
+        }, 
+        "quantity": "un comprimé", 
+        "type": "Comprimé"
+      }
+    ], 
+    "generic_groups": [
+      "GLIBENCLAMIDE 5 mg - DAONIL 5 mg, comprimé sécable."
+    ], 
+    "iab": null, 
+    "iab_improvements": null, 
+    "id": 60026957, 
+    "presentations": [
+      {
+        "cip_codes": [
+          "368 209-8", 
+          "34009 368 209 8 2"
+        ], 
+        "marketing_start_date": "2005-11-24", 
+        "marketing_stop_date": null, 
+        "price": 235, 
+        "refund_rate": 65, 
+        "title": "plaquette(s) thermoformée(s) PVC-Aluminium de 20 comprimé(s)"
+      }, 
+      {
+        "cip_codes": [
+          "370 162-5", 
+          "34009 370 162 5 4"
+        ], 
+        "marketing_start_date": "2006-03-14", 
+        "marketing_stop_date": null, 
+        "price": 678, 
+        "refund_rate": 65, 
+        "title": "plaquette(s) thermoformée(s) PVC-Aluminium de 90 comprimé(s)"
+      }, 
+      {
+        "cip_codes": [
+          "387 533-1", 
+          "34009 387 533 1 8"
+        ], 
+        "marketing_start_date": "2008-11-25", 
+        "marketing_stop_date": null, 
+        "price": 1239, 
+        "refund_rate": 65, 
+        "title": "plaquette(s) thermoformée(s) PVC-Aluminium de 180 comprimé(s)"
+      }
+    ], 
+    "title": "GLIBENCLAMIDE TEVA 5 mg, comprimé sécable"
+  }, 
+  {
+    "authorization_holder": "SANOFI AVENTIS FRANCE", 
+    "cis_code": "6 002 849 5", 
+    "composition": [
+      {
+        "components": {
+          "chlorhydrate de pseudoéphédrine": "30 mg", 
+          "paracétamol": "500 mg"
+        }, 
+        "quantity": "un comprimé", 
+        "type": "Comprimé jour"
+      }, 
+      {
+        "components": {
+          "hydrogénosuccinate de doxylamine": "7,5 mg", 
+          "paracétamol": "500 mg"
+        }, 
+        "quantity": "un comprimé", 
+        "type": "Comprimé nuit"
+      }
+    ], 
+    "generic_groups": null, 
+    "iab": null, 
+    "iab_improvements": null, 
+    "id": 60028495, 
+    "presentations": null, 
+    "title": "DOLIRHUMEPRO PARACETAMOL, PSEUDOEPHEDRINE ET DOXYLAMINE, comprimé"
+  },
+  {
+    "authorization_holder": "Laboratoire GLAXOSMITHKLINE", 
+    "cis_code": "6 002 855 2", 
+    "composition": [
+      {
+        "components": {
+          "bésilate d'atracurium": "25 mg"
+        }, 
+        "quantity": "une ampoule", 
+        "type": "Solution"
+      }
+    ], 
+    "generic_groups": null, 
+    "iab": null, 
+    "iab_improvements": null, 
+    "id": 60028552, 
+    "presentations": null, 
+    "title": "TRACRIUM 25 mg/2,5 ml (1 POUR CENT), solution injectable en ampoule"
+  },
+  {
+    "authorization_holder": "Laboratoire WELEDA", 
+    "cis_code": "6 002 868 0", 
+    "composition": [
+      {
+        "components": {
+          "calcarea iodata pour préparations homéopathiques": "3CH à 30CH et 5DH à 60DH"
+        }, 
+        "quantity": null, 
+        "type": "Granules"
+      }, 
+      {
+        "components": {
+          "calcarea iodata pour préparations homéopathiques": "3CH à 30CH et 5DH à 60DH"
+        }, 
+        "quantity": null, 
+        "type": "Poudre orale"
+      }, 
+      {
+        "components": {
+          "calcarea iodata pour préparations homéopathiques": "3CH à 30CH et 5DH à 60DH"
+        }, 
+        "quantity": null, 
+        "type": "Solution buvable en gouttes"
+      }
+    ], 
+    "generic_groups": null, 
+    "iab": null, 
+    "iab_improvements": null, 
+    "id": 60028680, 
+    "presentations": null, 
+    "title": "CALCAREA IODATA WELEDA, degré de dilution compris entre 3CH et 30CH ou entre 5DH et 60DH"
+  }
+]   
